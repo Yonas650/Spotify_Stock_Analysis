@@ -43,7 +43,7 @@ Gathering additional insights from news articles and financial reports.
 Analysis of how major announcements or controversies are reflected in 
 stock price movements.
 ## 4. Tools and Libraries Used
-Python
+- Python
 - Pandas and Pandas_DataReader
 - Matplotlib and Seaborn for visualization
 - Additional libraries for data manipulation and analysis
